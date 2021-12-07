@@ -1,0 +1,21 @@
+.main-div{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    /*margin-top: 50px;*/
+}
+.inner-main-div{
+    height: 300px;
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    z-index: 1;
+    margin: 250px 0 0 420px;
+}
+.main-img{
+    margin: 120px auto 0;
+    width: 600px;
+    height: 100%;
+    border-radius: 300px;
+}

@@ -1,0 +1,33 @@
+.contacts{
+    width: 25%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid rgb(61, 8, 8);
+    border-radius: 75px;
+    background-color: white;
+    margin-top: 125px;
+    font-size: 15px;
+}
+.contacts-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+
+}
+
+span{
+    color:brown;
+}
+.input{
+    margin-top: 135px;
+    width: 25%;
+    height: 30px;
+    margin-left: 39%;
+    text-align: center;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
